@@ -48,7 +48,7 @@ The HTML we've written so far is working just fine, but it is not complete. Let'
 </html>
 
 ```
-All HTML documents start with a `Doctype` declaration. This let's the browser know everything that follows is part of an HTML document. Doctype always sits at the top and it does not have a closing tag. 
+All HTML documents start with a `Doctype` declaration. This lets the browser know everything that follows is part of an HTML document. Doctype always sits at the top and it does not have a closing tag. 
 
 Next comes our `html` tag. This wraps around the entire document. Notice the closing `html` tag at the very bottom. It's common in HTML to nest tags within tags. We'll be seeing this a lot. 
 
